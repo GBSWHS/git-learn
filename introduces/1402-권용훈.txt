@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main() {
+printf("안녕, 세상!");
+}
+printf("안녕 낮선 천장 낮선 모습 이곳이 이세카이인가? 후훗");
